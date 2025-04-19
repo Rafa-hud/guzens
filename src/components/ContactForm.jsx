@@ -305,7 +305,7 @@ const ContactForm = () => {
           <FaComment style={{...styles.icon, top: '20px'}} />
           <textarea
             name="asunto"
-            placeholder="Tu mensaje o consulta..."
+            placeholder="Escribe tu nombre, telefono y tu mensaje..."
             value={formData.asunto}
             onChange={handleChange}
             required

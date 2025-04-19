@@ -51,7 +51,7 @@ export const popularSongs = [
       },
       {
         id: 8,
-        title: "Solo me Queda",
+        title: "Solo me Quede",
         coverArt: "img9.jpg",
         spotifyUrl: "https://open.spotify.com/intl-es/track/2cSgCxkoXAM8sSh4Q1yW8i?si=54e6405c1f51450e",
         youtubeUrl: "https://youtu.be/bt5Miei2Pwc?si=4nzSQ2u9w-6ZWbSl"
